@@ -7,7 +7,7 @@ def nothing(x):
 
 # Initializing the webcam feed.
 cap = cv2.VideoCapture(0)
-cap.set(3,1280)
+cap.set(6,1280)
 cap.set(8,720)
 
 # Create a window named trackbars.

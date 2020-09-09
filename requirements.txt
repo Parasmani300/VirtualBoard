@@ -1,1 +1,2 @@
-gunicorn==19.10.0
+numpy==1.19.1
+opencv-python==4.4.0.42
